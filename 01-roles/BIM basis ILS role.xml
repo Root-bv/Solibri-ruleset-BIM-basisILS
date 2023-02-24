@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role>
+  <description>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &amp;#169; 2018 || &lt;a href="http://www.root-bv.nl/"&gt;ROOT B.V.&lt;/a&gt; || MGR&lt;br&gt;&lt;br&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</description>
+  <root>Z:/99000 iedereen/31-Martijn Groenewoud/01_Solibri/04-BIM basis ILS role</root>
+  <rulesets>
+    <file Pin="true">04-ruleset/ROOT BIM basis ILS.cset</file>
+  </rulesets>
+  <classifications>
+    <file Pin="true">02-classification/1.1 BIM bronapplicatie.classification</file>
+    <file Pin="true">02-classification/1.2 BIM modeldiscipline.classification</file>
+    <file Pin="true">02-classification/1.3 BIM faseringen.classification</file>
+    <file Pin="true">02-classification/2.0 IFC exportschema.classification</file>
+    <file Pin="true">02-classification/2.1 IFC exportdatum.classification</file>
+    <file Pin="true">02-classification/2.2 IFC exportversie.classification</file>
+    <file Pin="true">02-classification/2.4 IFC project.classification</file>
+    <file Pin="true">02-classification/2.5 IFC site.classification</file>
+    <file Pin="true">02-classification/2.6 IFC building.classification</file>
+    <file Pin="true">02-classification/3.1 BIM modellen.classification</file>
+    <file Pin="true">02-classification/3.3 Bouwlaag.classification</file>
+    <file Pin="true">02-classification/3.4 Entiteit.classification</file>
+    <file Pin="true">02-classification/3.5 naam.classification</file>
+    <file Pin="true">02-classification/3.5 type.classification</file>
+    <file Pin="true">02-classification/3.6 NL-SfB samenvoeging NEN Name.classification</file>
+    <file Pin="true">02-classification/3.6 NL-SfB.classification</file>
+    <file Pin="true">02-classification/3.7 Materialen.classification</file>
+    <file Pin="true">02-classification/4.1 LoadBearing.classification</file>
+    <file Pin="true">02-classification/4.2 IsExternal.classification</file>
+    <file Pin="true">02-classification/4.3 FireRating.classification</file>
+    <file Pin="true">02-classification/1.1 BIM aspectmodellen.classification</file>
+  </classifications>
+  <itos>
+    <file Pin="true">03-ito's/check_NL-SfB.ito</file>
+    <file Pin="true">03-ito's/check_consistentie naamgeving.ito</file>
+    <file Pin="true">03-ito's/check_entiteiten.ito</file>
+    <file Pin="true">03-ito's/check_external.ito</file>
+    <file Pin="true">03-ito's/check_loadbearing.ito</file>
+  </itos>
+</role>
+
